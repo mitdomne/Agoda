@@ -1,0 +1,16 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.agoda.com	TRUE	/	FALSE	1999999999	ASP.NET_SessionId	2nptjgfpqvmhr5amx5d1l5oa
+.agoda.com	TRUE	/	FALSE	1999999999	agoda.firstclicks	1844104||||2023-08-02T09:20:45||2nptjgfpqvmhr5amx5d1l5oa||{"IsPaid":false,"gclid":"","Type":""}
+.agoda.com	TRUE	/	FALSE	1999999999	agoda.lastclicks	1844104||||2023-08-02T09:20:45||2nptjgfpqvmhr5amx5d1l5oa||{"IsPaid":false,"gclid":"","Type":""}
+.agoda.com	TRUE	/	FALSE	1999999999	agoda.landings	1844104|||2nptjgfpqvmhr5amx5d1l5oa|2023-08-02T09:20:45|False|19----1844104|||2nptjgfpqvmhr5amx5d1l5oa|2023-08-02T09:20:45|False|20----1844104|||2nptjgfpqvmhr5amx5d1l5oa|2023-08-02T09:20:45|False|99
+.agoda.com	TRUE	/	FALSE	1999999999	agoda.attr.03	ATItems=1844104$08-02-2023 09:20$
+.agoda.com	TRUE	/	FALSE	1999999999	agoda.version.03	CookieId=de4768a0-138d-41ed-a983-802d16eec025&TItems=2$1844104$08-02-2023 09:20$09-01-2023 09:20$&DLang=vi-vn&CurLabel=VND
+.agoda.com	TRUE	/	FALSE	1999999999	agoda.price.01	PriceView=1
+www.agoda.com	TRUE	/	FALSE	1999999999	xsrf_token	CfDJ8Dkuqwv-0VhLoFfD8dw7lYxTsUmiZCIt3EWxbMJ7tsn8mWHfe9BE0dr86Nq3bfPVhEk7TlIvhUSgcueNEr2PNUDMa9xJNNjFFhhOcAMgDE0_0Hl_DWrF-G8Mih-AAGvlaTIMXeFAoPMb0wq11Aycv_Y
+www.agoda.com	TRUE	/	FALSE	1999999999	samesite	strict
+.agoda.com	TRUE	/	FALSE	1999999999	agoda.user.03	UserId=0cfc756e-65a8-44c3-b59d-0b4844674eb0
+www.agoda.com	TRUE	/	FALSE	1999999999	SameSite	None
+.agoda.com	TRUE	/	FALSE	1999999999	agoda.analytics	Id=1092127534562717353&Signature=-4815656364896081392&Expiry=1690946564235
+.agoda.com	TRUE	/	FALSE	1999999999	agoda.prius	PriusID=0&PointsMaxTraffic=Agoda
+

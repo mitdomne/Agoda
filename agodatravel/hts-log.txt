@@ -1,0 +1,46 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 02 Aug 2023 09:20:45 at https://www.agoda.com/vi-vn/ https://www.agoda.com/vi-vn/packages?cid=1844104 https://www.agoda.com/vi-vn/?cid=1844104 https://www.agoda.com/vi-vn/flights?cid=1844104 https://www.agoda.com/vi-vn/deals?cid=1844104 https://www.agoda.com/vi-vn/apartments/?cid=1844104 +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.agoda.com/vi-vn/ https://www.agoda.com/vi-vn/packages?cid=1844104 https://www.agoda.com/vi-vn/?cid=1844104 https://www.agoda.com/vi-vn/flights?cid=1844104 https://www.agoda.com/vi-vn/deals?cid=1844104 https://www.agoda.com/vi-vn/apartments/?cid=1844104 -O1 "C:\My Web Sites\agodatravel" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+09:21:20	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 1411): cdn1.agoda.net/images/default/icon_alarm_clock.png
+09:22:43	Warning: 	Moved Temporarily for https://www.agoda.com/vi-vn/$&/
+09:22:43	Warning: 	File has moved from https://www.agoda.com/vi-vn/$&/ to https://www.agoda.com/vi-vn/pagenotfound.html
+09:22:43	Error: 	"Not Found" (404) at link https://www.agoda.com/vi-vn/pagenotfound.html (from https://cdn6.agoda.net/cdn-marketing_cronos/js/assets/cronos/deals-69bf65fe9c9c.js)
+09:22:43	Warning: 	Moved Temporarily for https://www.agoda.com/vi-vn/;/?:@&=+$,
+09:22:43	Warning: 	File has moved from https://www.agoda.com/vi-vn/;/?:@&=+$, to https://www.agoda.com/vi-vn/pagenotfound.html
+09:22:43	Warning: 	Moved Temporarily for https://www.agoda.com/vi-vn/x-file://
+09:22:43	Warning: 	File has moved from https://www.agoda.com/vi-vn/x-file:// to https://www.agoda.com/vi-vn/pagenotfound.html
+09:22:43	Warning: 	Moved Temporarily for https://www.agoda.com/vi-vn/edge/
+09:22:43	Warning: 	File has moved from https://www.agoda.com/vi-vn/edge/ to https://www.agoda.com/vi-vn/pagenotfound.html
+09:22:43	Warning: 	Moved Temporarily for https://www.agoda.com/vi-vn/iemobile/
+09:22:43	Warning: 	File has moved from https://www.agoda.com/vi-vn/iemobile/ to https://www.agoda.com/vi-vn/pagenotfound.html
+09:22:43	Warning: 	Moved Temporarily for https://www.agoda.com/vi-vn/firefox/
+09:22:43	Warning: 	File has moved from https://www.agoda.com/vi-vn/firefox/ to https://www.agoda.com/vi-vn/pagenotfound.html
+09:22:43	Warning: 	Moved Temporarily for https://www.agoda.com/vi-vn/opera/
+09:22:43	Warning: 	File has moved from https://www.agoda.com/vi-vn/opera/ to https://www.agoda.com/vi-vn/pagenotfound.html
+09:22:43	Warning: 	Moved Temporarily for https://www.agoda.com/vi-vn/opr/
+09:22:43	Warning: 	File has moved from https://www.agoda.com/vi-vn/opr/ to https://www.agoda.com/vi-vn/pagenotfound.html
+09:22:43	Warning: 	Moved Temporarily for https://www.agoda.com/vi-vn/chrome/
+09:22:43	Warning: 	File has moved from https://www.agoda.com/vi-vn/chrome/ to https://www.agoda.com/vi-vn/pagenotfound.html
+09:22:43	Warning: 	Moved Temporarily for https://www.agoda.com/vi-vn/safari/
+09:22:43	Warning: 	File has moved from https://www.agoda.com/vi-vn/safari/ to https://www.agoda.com/vi-vn/pagenotfound.html
+09:22:43	Warning: 	Moved Temporarily for https://www.agoda.com/vi-vn/trident/
+09:22:43	Warning: 	File has moved from https://www.agoda.com/vi-vn/trident/ to https://www.agoda.com/vi-vn/pagenotfound.html
+09:22:43	Warning: 	Moved Temporarily for https://www.agoda.com/vi-vn/Version/
+09:22:43	Warning: 	File has moved from https://www.agoda.com/vi-vn/Version/ to https://www.agoda.com/vi-vn/pagenotfound.html
+09:22:43	Error: 	"Not Found" (404) at link https://www.agoda.com/vi-vn/api/cronos/ (from https://cdn6.agoda.net/cdn-marketing_cronos/js/assets/cronos/deals-69bf65fe9c9c.js)
+09:22:43	Error: 	"Not Found" (404) at link cdn1.agoda.net/images/desktop/error_pic.png (from https://cdn6.agoda.net/cdn-geo-web/js/assets/LEGACY-BROWSERS-NOWL/accommodation-344bb0b33b19.css)
+09:22:43	Error: 	"Not Found" (404) at link https://www.agoda.com/vi-vn/apartments/api/cronos/ (from https://cdn6.agoda.net/cdn-geo-web/js/assets/LEGACY-BROWSERS-NOWL/32456eddadaccommodation-344bb0b33b19.js)
+09:22:43	Warning: 	Moved Temporarily for https://www.agoda.com/vi-vn/apartments/$&/
+09:22:43	Warning: 	File has moved from https://www.agoda.com/vi-vn/apartments/$&/ to https://www.agoda.com/vi-vn/pagenotfound.html
+09:22:44	Warning: 	Moved Temporarily for https://www.agoda.com/vi-vn/apartments/;/?:@&=+$,
+09:22:44	Warning: 	File has moved from https://www.agoda.com/vi-vn/apartments/;/?:@&=+$, to https://www.agoda.com/vi-vn/pagenotfound.html
+09:22:44	Warning: 	Moved Temporarily for https://www.agoda.com/vi-vn/apartments/x-file://
+09:22:44	Warning: 	File has moved from https://www.agoda.com/vi-vn/apartments/x-file:// to https://www.agoda.com/vi-vn/pagenotfound.html
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 59 seconds : 107 links scanned, 87 files written (20218595 bytes overall) [5674638 bytes received at 47686 bytes/sec], 17952457 bytes transferred using HTTP compression in 22 files, ratio 17%, 2.5 requests per connection
+(4 errors, 31 warnings, 0 messages)
